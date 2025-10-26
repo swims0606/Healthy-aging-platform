@@ -48,6 +48,11 @@ python main.py
 http://localhost:8080
 ```
 
+### 4. 가상환경 비활성화
+```bash
+deactivate
+```
+
 ## 📱 사용법
 
 1. **홈**: 오늘의 목표와 지식을 한눈에 확인
