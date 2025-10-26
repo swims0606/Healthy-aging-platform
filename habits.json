@@ -1,0 +1,52 @@
+{
+  "user_habits": [
+    {
+      "id": 3,
+      "name": "식사 전 물 한 잔",
+      "difficulty": "easy",
+      "duration": "1분",
+      "description": "식사 30분 전에 물 한 잔을 마시는 습관",
+      "icon": "🍽️",
+      "tips": [
+        "소화에 도움이 됩니다"
+      ],
+      "start_date": "2025-10-25",
+      "streak": 0,
+      "total_days": 0,
+      "category": "water",
+      "is_active": true
+    },
+    {
+      "id": 5,
+      "name": "스트레칭 5분",
+      "difficulty": "easy",
+      "duration": "5분",
+      "description": "아침이나 저녁에 간단한 스트레칭",
+      "icon": "🤸",
+      "tips": [
+        "목, 어깨, 허리 스트레칭을 포함하세요"
+      ],
+      "start_date": "2025-10-25",
+      "streak": 0,
+      "total_days": 0,
+      "category": "exercise",
+      "is_active": true
+    },
+    {
+      "id": 11,
+      "name": "아침 식사하기",
+      "difficulty": "easy",
+      "duration": "15분",
+      "description": "매일 아침 식사를 하는 습관",
+      "icon": "🍳",
+      "tips": [
+        "간단한 과일이나 견과류라도 좋습니다"
+      ],
+      "start_date": "2025-10-25",
+      "streak": 0,
+      "total_days": 0,
+      "category": "nutrition",
+      "is_active": true
+    }
+  ]
+}
